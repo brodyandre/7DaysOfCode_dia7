@@ -25,7 +25,7 @@ Navegue até o diretório do projeto:
 cd calculadora-estilosa
 Abra o arquivo index.html em um navegador web.
 
-Estrutura do Projeto
+## Estrutura do Projeto
 
 calculadora-estilosa/
 
